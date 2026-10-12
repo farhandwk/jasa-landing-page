@@ -237,7 +237,7 @@ export default function Home() {
               </div>
             </a>
             
-            <a href="https://www.farhanportfolio.my.id" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-6 bg-[#F8F8F8] rounded-xl hover:bg-[#7B7B7B] transition-all duration-300 group">
+            <a href="https://website-pribadi-one.vercel.app/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-6 bg-[#F8F8F8] rounded-xl hover:bg-[#7B7B7B] transition-all duration-300 group">
               <div className="w-12 h-12 bg-[#222222] rounded-full flex items-center justify-center flex-shrink-0">
                 <Globe className="w-6 h-6 text-[#F8F8F8]" />
               </div>
